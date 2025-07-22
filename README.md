@@ -50,21 +50,21 @@ Here's a quick preview of the design screens:
 #Splash Screen
 
 <img width="428" height="926" alt="Splash Screen" src="https://github.com/user-attachments/assets/50664e7f-a3b6-4e8d-b899-9cdb8033d6d2" />
-#Login Page
+# Login Page
 <img width="428" height="926" alt="Login Page" src="https://github.com/user-attachments/assets/63143386-17c8-4643-b4e7-a4ff25b0bb8d" />
 
-#Home Page
+# Home Page
 <img width="428" height="926" alt="Home Page" src="https://github.com/user-attachments/assets/c3ab57d7-d5c2-4ea2-830d-a21ab2ca52eb" />
 
-#BankBalance Page
+# BankBalance Page
 <img width="520" height="1018" alt="BankAccount Page" src="https://github.com/user-attachments/assets/2c7a1079-bd97-4fa0-b2ca-430b33598a25" />
 
 <img width="428" height="926" alt="Balance Page" src="https://github.com/user-attachments/assets/b38d731b-bc7b-4ff0-bd2b-8dd51844a119" />
 
-#Offers Page
+# Offers Page
 <img width="428" height="926" alt="Offers Page" src="https://github.com/user-attachments/assets/89b0c194-00bc-4166-a78b-8de961b04d6e" />
 
-#Rewards Page
+# Rewards Page
 <img width="428" height="926" alt="Rewards Page" src="https://github.com/user-attachments/assets/38c0b129-ebc8-46c4-bdf9-43135891db21" />
 
 ---

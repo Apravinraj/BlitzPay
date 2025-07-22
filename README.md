@@ -101,7 +101,7 @@ Here's a quick preview of the design screens:
 
 ## 🚀 How to Explore
 
-1. Open `BlitzPay.fig` in **Figma**
+1. Open [`BlitzPay.fig` ](https://www.figma.com/design/YYiGd4wEa51cA9dOCMCjDj/BlitzPay?node-id=20-1574&t=OYJz8ws3Q1ylUifl-1) in **Figma**
 2. Browse each screen (Splash → QR)
 3. Review how layout and component consistency is maintained
 
